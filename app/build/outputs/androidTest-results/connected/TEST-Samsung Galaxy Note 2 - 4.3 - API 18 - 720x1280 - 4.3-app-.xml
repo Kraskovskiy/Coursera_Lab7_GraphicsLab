@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="course.labs.graphicslab.tests.BubbleActivityFling" tests="4" failures="0" errors="0" skipped="0" time="37.23" timestamp="2015-12-20T17:14:20" hostname="localhost">
+  <properties>
+    <property name="device" value="Samsung Galaxy Note 2 - 4.3 - API 18 - 720x1280 - 4.3" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="testRun" classname="course.labs.graphicslab.tests.BubbleActivityFling" time="9.354" />
+  <testcase name="testRun" classname="course.labs.graphicslab.tests.BubbleActivityFloatOffScreen" time="7.292" />
+  <testcase name="testRun" classname="course.labs.graphicslab.tests.BubbleActivityMultiple" time="11.27" />
+  <testcase name="testRun" classname="course.labs.graphicslab.tests.BubbleActivityPop" time="9.31" />
+</testsuite>
